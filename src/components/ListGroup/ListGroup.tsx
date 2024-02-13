@@ -1,3 +1,6 @@
+import "./ListGroup.css";
+import styled from "styled-components";
+
 function ListGroup() {
     let states = ["Alabama", "Alaska", "Arizona", "Arkansas", "California", "Colorado", "Connecticut", "Delaware", "Florida", "Georgia"]
     // states = []
